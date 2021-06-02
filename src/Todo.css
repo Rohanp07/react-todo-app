@@ -1,0 +1,14 @@
+.todos{
+    margin: auto;
+    width: 50%;
+    border: 3px solid black;
+    background-color: gray;
+    padding: 10px;
+    color: yellow;
+}
+
+
+.btn{
+    left: 25px;
+    top: 10px;
+}
